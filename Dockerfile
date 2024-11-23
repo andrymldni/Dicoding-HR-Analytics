@@ -11,6 +11,3 @@ ENV MB_DB_HOST=aws-0-ap-southeast-1.pooler.supabase.com
 
 # Port yang digunakan oleh Metabase (Railway akan menangani port forwarding)
 EXPOSE 3000
-
-# Perintah default untuk menjalankan Metabase
-CMD ["java", "-jar", "/app/metabase.jar"]
