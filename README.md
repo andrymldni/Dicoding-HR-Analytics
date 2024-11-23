@@ -97,24 +97,27 @@ Dataframe ini memiliki 1471 baris dan 35 kolom.
 ## Sturktur File
 
 ```
-
 📦Submission-1
  ┣ 📜andrymldni-Dashboard.png
- ┣ 📜andrymldni.mp4
+ ┣ 📜andrymldni-Video.mp4
  ┣ 📜clean_employee.csv
+ ┣ 📜Dockerfile
  ┣ 📜lr_model.pkl
  ┣ 📜metabase.db.mv.db
- ┣ 📜notebook benar.ipynb
+ ┣ 📜notebook.ipynb
  ┣ 📜prediction.py
- ┣ 📜Readme.md
+ ┣ 📜README.md
  ┗ 📜requirements.txt
-
 ```
 
 ## Business Dashboard
 Dashboard ini memberikan gambaran yang jelas tentang berbagai faktor yang memengaruhi retensi tenaga kerja di Jaya Jaya Maju. Dengan informasi yang diperoleh, perusahaan dapat merumuskan strategi berbasis data untuk meningkatkan kepuasan karyawan, mengurangi attrition, dan mendukung pertumbuhan jangka panjang.
 
 ![andrymldni-Dashboard](https://github.com/user-attachments/assets/7f991771-1a9f-40c0-8647-d6efb07a9016)
+
+[andrymldni-Video](https://github.com/user-attachments/assets/2a807148-7106-48e0-a049-e766cdebfebd)
+
+Email: root@mail.com Password: root123
 
 ## Conclusion
 Berdasarkan data yang dianalisis, dapat disimpulkan bahwa faktor-faktor demografis dan pekerjaan memiliki peran signifikan dalam mempengaruhi tingkat pergantian karyawan di perusahaan. Sebagian besar karyawan yang keluar berasal dari departemen tertentu, dengan tingkat attrition yang lebih tinggi di antara karyawan dengan latar belakang pendidikan teknik dan peran pekerjaan tertentu, seperti Sales Representative. Faktor lain yang berkontribusi pada pergantian karyawan termasuk status pernikahan, dengan karyawan yang berstatus single cenderung memiliki tingkat attrition yang lebih tinggi. Selain itu, meskipun tidak ada perbedaan yang signifikan antara gender, aspek lain seperti kepuasan kerja, keseimbangan kehidupan kerja, dan pengembangan karir dapat mempengaruhi keputusan karyawan untuk tetap bertahan di perusahaan. Oleh karena itu, penting bagi manajemen untuk mengembangkan strategi yang berfokus pada peningkatan kepuasan kerja, menawarkan peluang pengembangan karir, dan menciptakan budaya kerja yang mendukung keseimbangan kehidupan kerja guna mengurangi tingkat pergantian karyawan dan meningkatkan retensi di masa depan.
