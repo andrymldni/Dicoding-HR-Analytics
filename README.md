@@ -4,9 +4,8 @@
 >Menyelesaikan permasalahan human resources di perusahaan Jaya Jaya Maju
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/1a48f5cf-40d9-457e-904f-e6b689835f3f" alt="HR" width="500">
+  <img src="https://github.com/user-attachments/assets/047f91be-8878-40a6-8c21-274b01b7860d" alt="HR" width="750">
   </p>
-
 
 ## Business Understanding
 Jaya Jaya Maju adalah sebuah perusahaan multinasional yang didirikan pada tahun 2000 dan kini telah memiliki lebih dari 1000 karyawan yang tersebar di seluruh negeri. Meskipun perusahaan ini telah berkembang menjadi entitas bisnis yang besar, Jaya Jaya Maju masih menghadapi tantangan signifikan dalam mengelola karyawannya. Salah satu masalah utama yang dihadapi adalah tingginya tingkat pergantian karyawan (attrition rate) yang mencapai lebih dari 10%. Tingginya tingkat pergantian karyawan ini menunjukkan adanya masalah dalam manajemen sumber daya manusia, yang mungkin mencakup kepuasan kerja, keseimbangan kehidupan kerja, pengembangan karir, atau budaya organisasi. Masalah ini tidak hanya berdampak pada produktivitas dan efisiensi operasional perusahaan, tetapi juga menimbulkan biaya tambahan terkait rekrutmen dan pelatihan karyawan baru, serta berpotensi mengganggu stabilitas dan keberlanjutan bisnis Jaya Jaya Maju di masa depan.
@@ -115,7 +114,7 @@ Dataframe ini memiliki 1471 baris dan 35 kolom.
 ## Business Dashboard
 Dashboard ini memberikan gambaran yang jelas tentang berbagai faktor yang memengaruhi retensi tenaga kerja di Jaya Jaya Maju. Dengan informasi yang diperoleh, perusahaan dapat merumuskan strategi berbasis data untuk meningkatkan kepuasan karyawan, mengurangi attrition, dan mendukung pertumbuhan jangka panjang.
 
-![andrymldni-Dashboard](https://github.com/user-attachments/assets/e02d09a4-4e90-47b9-b053-f35df5ce04f5)
+![andrymldni-Dashboard](https://github.com/user-attachments/assets/7f991771-1a9f-40c0-8647-d6efb07a9016)
 
 ## Conclusion
 Berdasarkan data yang dianalisis, dapat disimpulkan bahwa faktor-faktor demografis dan pekerjaan memiliki peran signifikan dalam mempengaruhi tingkat pergantian karyawan di perusahaan. Sebagian besar karyawan yang keluar berasal dari departemen tertentu, dengan tingkat attrition yang lebih tinggi di antara karyawan dengan latar belakang pendidikan teknik dan peran pekerjaan tertentu, seperti Sales Representative. Faktor lain yang berkontribusi pada pergantian karyawan termasuk status pernikahan, dengan karyawan yang berstatus single cenderung memiliki tingkat attrition yang lebih tinggi. Selain itu, meskipun tidak ada perbedaan yang signifikan antara gender, aspek lain seperti kepuasan kerja, keseimbangan kehidupan kerja, dan pengembangan karir dapat mempengaruhi keputusan karyawan untuk tetap bertahan di perusahaan. Oleh karena itu, penting bagi manajemen untuk mengembangkan strategi yang berfokus pada peningkatan kepuasan kerja, menawarkan peluang pengembangan karir, dan menciptakan budaya kerja yang mendukung keseimbangan kehidupan kerja guna mengurangi tingkat pergantian karyawan dan meningkatkan retensi di masa depan.
